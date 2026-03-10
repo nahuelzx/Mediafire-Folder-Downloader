@@ -118,7 +118,7 @@ pip install pyinstaller
 Build the executable:
 
 ```bash
-pyinstaller --onefile --clean --name MediaFireDownloader mediafire_downloader.py
+pyinstaller --onefile mediafire_downloader.py
 ```
 
 The executable will appear in:
