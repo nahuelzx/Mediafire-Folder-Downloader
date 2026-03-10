@@ -42,8 +42,6 @@ This is especially useful when you have large MediaFire folders containing multi
 <img src="preview.png" width="750">
 </p>
 
-*(Optional screenshot of the script running)*
-
 ---
 
 # Installation
