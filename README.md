@@ -8,7 +8,6 @@ Download MediaFire files and entire folders automatically.
   <img src="https://img.shields.io/badge/python-3.8+-blue">
   <img src="https://img.shields.io/badge/platform-windows-lightgrey">
   <img src="https://img.shields.io/badge/status-working-brightgreen">
-  <img src="https://img.shields.io/badge/license-MIT-green">
   <img src="https://img.shields.io/badge/downloads-mediafire-orange">
 </p>
 
